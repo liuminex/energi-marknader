@@ -15,7 +15,7 @@
 ### Merit Order Estimation for MCP Forecasting
 
 <div align="center">
-  <img src="demo/merit_order_forecast_gr.png" alt="Merit Order Forecast (GR)" width="90%"/>
+  <img src="https://github.com/liuminex/energi-marknader/blob/main/demos/merit_order_forecast_gr.png" alt="Merit Order Forecast (GR)" width="90%"/>
 </div>
 
 ---
@@ -23,7 +23,7 @@
 ### DEFR CAL Futures Analysis
 
 <div align="center">
-  <img src="demo/frdecal_fwd.png" alt="FR-DE Forward Calibration" width="90%"/>
+  <img src="https://github.com/liuminex/energi-marknader/blob/main/demos/frdecal_fwd.png" alt="FR-DE Forward Calibration" width="90%"/>
 </div>
 
 ---
@@ -31,7 +31,7 @@
 ### Generation Outages Mix Tracking
 
 <div align="center">
-  <img src="demo/outages.png" alt="Outages Analysis" width="90%"/>
+  <img src="https://github.com/liuminex/energi-marknader/blob/main/demos/outages.png" alt="Outages Analysis" width="90%"/>
 </div>
 
 ---
@@ -39,8 +39,8 @@
 ### 4. Short-term Meteorological History and Forecasts 
 
 <div align="center">
-  <img src="demo/DE_weather.png" alt="Germany Weather Forecast" width="48%"/>
-  <img src="demo/SE_weather.png" alt="Southeast Europe Weather Forecast" width="48%"/>
+  <img src="https://github.com/liuminex/energi-marknader/blob/main/demos/DE_weather.png" alt="Germany Weather Forecast" width="48%"/>
+  <img src="https://github.com/liuminex/energi-marknader/blob/main/demos/SE_weather.png" alt="Southeast Europe Weather Forecast" width="48%"/>
 </div>
 
 ---
@@ -48,5 +48,5 @@
 ### Hungary Weekly Futures Products Analysis
 
 <div align="center">
-  <img src="demo/weekly_futures_analysis.png" alt="Weekly Futures Analysis" width="90%"/>
+  <img src="https://github.com/liuminex/energi-marknader/blob/main/demos/weekly_futures_analysis.png" alt="Weekly Futures Analysis" width="90%"/>
 </div>
